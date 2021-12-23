@@ -1,4 +1,4 @@
-#Organizador de Registros
+### Organizador de Registros
 
 La función de este programa es de guardar registros en un archivo
 binario de forma secuencial. Para realziar esto, se hacen los 

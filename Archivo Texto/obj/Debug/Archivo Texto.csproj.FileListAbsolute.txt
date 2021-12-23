@@ -1,0 +1,57 @@
+C:\Users\PC\Documents\SharpDevelop Projects\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe.config
+C:\Users\PC\Documents\SharpDevelop Projects\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe
+C:\Users\PC\Documents\SharpDevelop Projects\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.pdb
+C:\Users\PC\Documents\SharpDevelop Projects\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\SharpDevelop Projects\Archivo Texto\Archivo Texto\obj\Debug\Archivo_Texto.MainForm.resources
+C:\Users\PC\Documents\SharpDevelop Projects\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\SharpDevelop Projects\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.exe
+C:\Users\PC\Documents\SharpDevelop Projects\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe.config
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo_Texto.MainForm.resources
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.pdb
+C:\Users\jamon\Desktop\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe.config
+C:\Users\jamon\Desktop\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe
+C:\Users\jamon\Desktop\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.pdb
+C:\Users\jamon\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csprojResolveAssemblyReference.cache
+C:\Users\jamon\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo_Texto.MainForm.resources
+C:\Users\jamon\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csproj.GenerateResource.Cache
+C:\Users\jamon\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.exe
+C:\Users\jamon\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo_Texto.MainForm.resources
+C:\Users\PC\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe.config
+C:\Users\PC\Desktop\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe.config
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo_Texto.MainForm.resources
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\JT\Tareas\Semestre - 07\Organización de Archivos [Quinto Semestre]\00 - Programas\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\JT\GitHub\C#\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe.config
+C:\Users\PC\Desktop\JT\GitHub\C#\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\JT\GitHub\C#\Archivo Texto\Archivo Texto\bin\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\JT\GitHub\C#\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\JT\GitHub\C#\Archivo Texto\Archivo Texto\obj\Debug\Archivo_Texto.MainForm.resources
+C:\Users\PC\Desktop\JT\GitHub\C#\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\JT\GitHub\C#\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\JT\GitHub\C#\Archivo Texto\Archivo Texto\obj\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\JT\GitHub\C#\Organizador de Registros\Archivo Texto\bin\Debug\Archivo Texto.exe.config
+C:\Users\PC\Desktop\JT\GitHub\C#\Organizador de Registros\Archivo Texto\bin\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\JT\GitHub\C#\Organizador de Registros\Archivo Texto\bin\Debug\Archivo Texto.pdb
+C:\Users\PC\Desktop\JT\GitHub\C#\Organizador de Registros\Archivo Texto\obj\Debug\Archivo Texto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\JT\GitHub\C#\Organizador de Registros\Archivo Texto\obj\Debug\Archivo_Texto.MainForm.resources
+C:\Users\PC\Desktop\JT\GitHub\C#\Organizador de Registros\Archivo Texto\obj\Debug\Archivo Texto.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\JT\GitHub\C#\Organizador de Registros\Archivo Texto\obj\Debug\Archivo Texto.exe
+C:\Users\PC\Desktop\JT\GitHub\C#\Organizador de Registros\Archivo Texto\obj\Debug\Archivo Texto.pdb
